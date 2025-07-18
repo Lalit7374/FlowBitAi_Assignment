@@ -1,4 +1,4 @@
-# 💼 Flowbit Internship Project
+# 💼 Flowbitai Project
 
 This is a full-stack **Authentication System** created for the Flowbit Internship task using:
 
